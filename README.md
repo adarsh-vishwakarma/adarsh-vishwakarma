@@ -1,3 +1,7 @@
+  <div align="right">
+<img src="https://media.giphy.com/media/l0Iyoy5VglR6QKJiw/giphy.gif" width="100%" height="100%" style="position:absolute" />
+</div>
+
 # Hello, I'm Adarsh Vishwakarma! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-vishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-vishwakarma" /> </p>
