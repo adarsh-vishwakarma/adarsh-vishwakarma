@@ -23,14 +23,16 @@ I'm a Full-Stack Developer with a passion for creating innovative and efficient 
 
 ## 🔗 Links
 
-- **LinkedIn:** [Adarsh Vishwakarma](https://www.linkedin.com/in/shubhcodes/)
-- **GitHub:** [Adarsh Vishwakarma](https://[github.com/avayyyyyyy](https://github.com/adarsh-vishwakarma))
+- **LinkedIn:** [Adarsh Vishwakarma](https://www.linkedin.com/in/adarshh03/)
+- **GitHub:** [Adarsh Vishwakarma](https://github.com/adarsh-vishwakarma)
 
 ## 📫 Get in touch
 
-- Email: [adarshvishwakarma704gmail.com](mailto:adarshvishwakarma704gmail.com)
+- Email: [adarshvishwakarma704gmail.com](mailto:adarsh03rbl@gmail.com)
 
 ## 📈 GitHub Stats
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=adarsh-vishwakarma&show_icons=true&theme=dark alt=adarsh-vishwakarma /> </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=adarsh-vishwakarma&show_icons=true&theme=dark&cache_seconds=86400" alt="GitHub Stats" />
+
+
 
