@@ -32,7 +32,7 @@ I'm a Full-Stack Developer with a passion for creating innovative and efficient 
 
 ## 📈 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=adarsh-vishwakarma&show_icons=true&theme=dark&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adarsh-vishwakarma&show_icons=true" alt="GitHub Stats" />
 
 
 
